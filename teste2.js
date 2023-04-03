@@ -1,1 +1,0 @@
-console.log("este arquivo não está adicionado usando o Git add")
