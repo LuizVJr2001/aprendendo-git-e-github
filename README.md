@@ -1,11 +1,5 @@
 # Sistema de cadastro de jogos #
 
->Status do projeto: Em desenvolvimento
+>Status do projeto: Em aprendizado
 
-Para rodar esse projeto na sua máquina, por favor digite:
-
-```
-node app.js
-```
-
-:)
+Esse Repositório, serve para aprender a utilizar a ferramenta Git e o Github.
