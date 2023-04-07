@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos #
+# Aprendendo Git e Github #
 
 >Status do projeto: Em aprendizado
 
